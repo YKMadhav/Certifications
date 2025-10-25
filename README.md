@@ -37,7 +37,7 @@ This repository serves as a **record of my learning journey**, highlighting cour
 
 ---
 
-## 🌟 Featured Highlights
+## Featured Highlights
 
 - [Qiskit Fall Fest 2025 – Participation Certificate](./IBM%20SkillsBuild/Qiskit%20Fall%20Fest%202025/participation_certificate_Qiskit_Fall_Fest_2025.pdf)
 - [YUVA-25 Hackathon Certificate](./Important/YUVA-25_Hackathon_certificate.pdf)
@@ -45,7 +45,7 @@ This repository serves as a **record of my learning journey**, highlighting cour
 
 ---
 
-## 🧠 Learning Domains
+## Learning Domains
 
 | Domain | Tools / Platforms |
 |---------|------------------|
