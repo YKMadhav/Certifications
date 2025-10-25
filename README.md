@@ -7,7 +7,7 @@ I’m deeply interested in **Quantum Computing** and **Mathematical Sciences**, 
 
 # Certifications Portfolio
 
-Welcome to my **Certifications Repository** — a structured collection of all my verified certificates, badges, and achievements earned through continuous learning in **Mathematical Sciences, Computing, and Quantum Computing**.
+Welcome to my **Certifications Repository** — a structured collection of all my verified certificates, badges, and achievements earned through continuous learning in **Mathematical Sciences, Computing**.
 
 This repository serves as a **record of my learning journey**, highlighting courses, badges, and participation from multiple global platforms including **IBM SkillsBuild**, **HackerRank**, **DataCamp**, **Kaggle**, **Microsoft Learn**, **Alison**, and others.
 
