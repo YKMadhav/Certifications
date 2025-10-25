@@ -12,68 +12,47 @@ Welcome to my **Certifications Repository** — a structured collection of all m
 This repository serves as a **record of my learning journey**, highlighting courses, badges, and participation from multiple global platforms including **IBM SkillsBuild**, **HackerRank**, **DataCamp**, **Kaggle**, **Microsoft Learn**, **Alison**, and others.
 
 ---
+# Certifications & Learning Journey
 
-## Repository Structure
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
+![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?logo=IBM&logoColor=white)
+![Quantum-Computing](https://img.shields.io/badge/Quantum_Computing-000000?logo=quantum-computing&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github)
 
-```plaintext
-Certifications/
-├── Alison/
-│   └── Learner Verifications/
-│       ├── gateway_to_QC_learner_verification_alison.pdf
-│       └── introduction_to_QC_learner_verification_alison.pdf
-│
-├── Data Camp/
-│   ├── intermediate_importing_data_in_python_accomplishment_datacamp.pdf
-│   ├── intermediate_python_accomplishment_datacamp.pdf
-│   └── introduction_to_python_accomplishment_datacamp.pdf
-│
-├── Geeks for Geeks/
-│   └── core_computer_science_subject_certificate_geeksforgeeks.pdf
-│
-├── Hacker Rank/
-│   ├── problem_solving_basic_certificate_hackerrank.pdf
-│   ├── python_basic_certificate_hackerrank.pdf
-│   ├── sql_basic_certificate_hackerrank.pdf
-│   └── sql_intermediate_certificate_hackerrank.pdf
-│
-├── IBM SkillsBuild/
-│   ├── Badges/
-│   │   ├── quantum_enigmas_badge_ibmskillsbuild.pdf
-│   │   └── quantum_enigmas_badge_ibmskillsbuild.png
-│   ├── Certificates/
-│   │   ├── a_beginner's_guide_to_QC_certificate_ibmskillsbuild.pdf
-│   │   ├── building_a_Q_workforce_requires_interdisciplinary_education_certificate_ibmskillsbuild.pdf
-│   │   ├── QC_experts_explain_certificate_ibmskillsbuild.pdf
-│   │   ├── QC_working_certificate_ibmskillsbuild.pdf
-│   │   ├── the_future_of_QC_certificate_ibmskillsbuild.pdf
-│   │   ├── what_is_QC_certificate_ibmskillsbuild.pdf
-│   │   └── what_problems_could_Q_computers_solve_certificate_ibmskillsbuild.pdf
-│   └── Qiskit Fall Fest 2025/
-│       └── participation_certificate_Qiskit_Fall_Fest_2025.pdf
-│
-├── Important/
-│   └── YUVA-25_Hackathon_certificate.pdf
-│
-├── Kaggle/
-│   ├── Badges/
-│   │   ├── code_forker_badge_kaggle.pdf
-│   │   ├── collector_badge_kaggle.pdf
-│   │   ├── dataset_creator_badge_kaggle.pdf
-│   │   ├── learner_badge_kaggle.pdf
-│   │   └── python_coder_badge_kaggle.pdf
-│   └── Certificates/
-│       ├── intro_to_AI_ethics_certificate_kaggle.pdf
-│       ├── intro_to_programming_certificate_kaggle.pdf
-│       ├── intro_to_SQL_certificate_kaggle.pdf
-│       └── python_certificate_kaggle.pdf
-│
-├── Microsoft Learn/
-│   └── Badges/
-│       └── Introduction_to_QC_with_Azure_Quantum_badge_microsoftlearn.pdf
-│
-└── Others/
-    ├── Gov/
-    │   ├── har_ghar_tiranga_2025_quiz_mygov_certificate.pdf
-    │   └── national_students_paryavaran_competition(NSPC)_certificate.pdf
-    └── QC/
-        └── Yippili_Khatwang_Madhav-343735629.pdf
+
+## Explore My Certifications by Platform
+
+| Platform | Description |
+|-----------|-------------|
+| [Alison](./Alison) | Quantum Computing fundamentals and conceptual introductions |
+| [DataCamp](./Data%20Camp) | Python programming, data importing, and intermediate concepts |
+| [GeeksforGeeks](./Geeks%20for%20Geeks) | Core computer science and problem-solving foundations |
+| [HackerRank](./Hacker%20Rank) | Coding practice: Python, SQL, and logical problem solving |
+| [IBM SkillsBuild](./IBM%20SkillsBuild) | Quantum Computing series, IBM badges, and Qiskit Fall Fest 2025 |
+| [Important](./Important) | Highlighted events like YUVA-25 Hackathon |
+| [Kaggle](./Kaggle) | Python, SQL, AI ethics, and achievement badges |
+| [Microsoft Learn](./Microsoft%20Learn) | Introduction to Quantum Computing with Azure Quantum |
+| [Others](./Others) | Miscellaneous certifications and government initiatives |
+
+---
+
+## 🌟 Featured Highlights
+
+- [Qiskit Fall Fest 2025 – Participation Certificate](./IBM%20SkillsBuild/Qiskit%20Fall%20Fest%202025/participation_certificate_Qiskit_Fall_Fest_2025.pdf)
+- [YUVA-25 Hackathon Certificate](./Important/YUVA-25_Hackathon_certificate.pdf)
+- [Core Computer Science Subjects – GeeksforGeeks](./Geeks%20for%20Geeks/core_computer_science_subject_certificate_geeksforgeeks.pdf)
+
+---
+
+## 🧠 Learning Domains
+
+| Domain | Tools / Platforms |
+|---------|------------------|
+| **Programming** | Python, C, C++ |
+| **Quantum Computing** | Qiskit, IBM SkillsBuild, Microsoft Learn |
+| **Data & Logic** | DataCamp, SQL, Mathematics |
+| **Problem Solving** | HackerRank, Kaggle |
+| **Exploration** | Alison, Coursera, Government initiatives |
+
+---
